@@ -1,5 +1,7 @@
 Predicting Social Service Outcomes
 ===========
+Methodology for previous implications for further study at UIC Midwest Latino Health Research Training and Policy Center.
+
 ![Health Leads](http://www.desantisbreindel.com/wp-content/uploads/2011/07/Health-Leads-rebranding.jpg)
 
 *“It is health that is real wealth and not pieces of gold and silver.”*
